@@ -16,7 +16,7 @@ Preparar várias versões de uma avaliação exige reescrever enunciados, trocar
 
 ## Para quem é
 
-Professores de Estatística que precisam produzir avaliações e variações de questões com rapidez, sem abrir mão do rigor matemático.
+Qualquer professor que queira agilizar o processo de criação de provas, produzindo avaliações e variações de questões com rapidez, sem abrir mão do rigor de cada disciplina.
 
 ## Tecnologias
 
